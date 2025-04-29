@@ -12,7 +12,9 @@ Link prediction seeks to uncover potential or future connections within a networ
 <p align="left">
   <img src="image/MCAS.png" alt="MSAC Framework" width="600"/>
 </p>
+
 *Figure: Overall framework of MCAS for link prediction.*
+
 ## 🔗 Code
 
 Click here to visit the code repository 👉[https://github.com/yabingyao/MCAS4LinkPrediction]
@@ -29,6 +31,8 @@ If you find **MCAS** useful in your research, please consider citing the followi
   pages={1--20},
   year={2025},
   publisher={Springer},
+  doi={\href{https://doi.org/10.1007/s10489-025-06394-5}{10.1007/s10489-025-06394-5}},
+  url={\href{https://link.springer.com/article/10.1007/s10489-025-06394-5}}
   doi={https://doi.org/10.1007/s10489-025-06394-5},
   url={https://link.springer.com/article/10.1007/s10489-025-06394-5#citeas}
 }

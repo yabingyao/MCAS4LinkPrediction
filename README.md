@@ -1,6 +1,6 @@
 # 项目名称（MCAS）
 
-Yao Y, Guo P, Mao Z, et al. Multi-scale contrastive learning via aggregated subgraph for link prediction[J]. Applied Intelligence, 2025, 55(6): 1-20.
+Yao Y, Guo P, Mao Z, et al. [Multi-scale contrastive learning via aggregated subgraph for link prediction](https://link.springer.com/article/10.1007/s10489-025-06394-5#citeas)[J]. Applied Intelligence, 2025, 55(6): 1-20.
 
 
 ## 🧠 Abstract
@@ -23,9 +23,6 @@ Click here to visit the code repository 👉[https://github.com/yabingyao/MCAS4L
 
 If you find **MCAS** useful in your research, please consider citing the following paper:
 
-
-[DOI: 10.1007/s10489-025-06394-5](https://doi.org/10.1007/s10489-025-06394-5)  
-[View on Springer](https://link.springer.com/article/10.1007/s10489-025-06394-5#citeas)
 ```bibtex
 @article{MCAS-2025,
   title={Multi-scale contrastive learning via aggregated subgraph for link prediction},
@@ -34,6 +31,6 @@ If you find **MCAS** useful in your research, please consider citing the followi
   pages={1--20},
   year={2025},
   publisher={Springer},
-  doi={https://doi.org/10.1007/s10489-025-06394-5},
-  url={https://link.springer.com/article/10.1007/s10489-025-06394-5#citeas}
+  doi=[DOI: 10.1007/s10489-025-06394-5](https://doi.org/10.1007/s10489-025-06394-5)  
+  url=[View on Springer](https://link.springer.com/article/10.1007/s10489-025-06394-5#citeas){https://doi.org/10.1007/s10489-025-06394-5},
 }

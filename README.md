@@ -31,6 +31,6 @@ If you find **MCAS** useful in your research, please consider citing the followi
   pages={1--20},
   year={2025},
   publisher={Springer},
-  doi=[DOI: 10.1007/s10489-025-06394-5](https://doi.org/10.1007/s10489-025-06394-5)  
-  url=[View on Springer](https://link.springer.com/article/10.1007/s10489-025-06394-5#citeas){https://doi.org/10.1007/s10489-025-06394-5},
+  [DOI: 10.1007/s10489-025-06394-5](https://doi.org/10.1007/s10489-025-06394-5)  
+  [View on Springer](https://link.springer.com/article/10.1007/s10489-025-06394-5#citeas){https://doi.org/10.1007/s10489-025-06394-5},
 }

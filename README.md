@@ -13,16 +13,16 @@ Link prediction seeks to uncover potential or future connections within a networ
 
 ## 📝 Citing
 
-If you find **HLP-MSM** useful in your research, please consider citing the following paper:
+If you find **MCAS** useful in your research, please consider citing the following paper:
 
 ```bibtex
-@article{HLP-MSM-2025,
-  title={High-order Link Prediction via Multi-scale Simplicial Motif Modeling},
-  author={Your Name and Collaborator A and Collaborator B},
-  journal={Journal of Complex Network Intelligence},
-  pages={xx--xx},
+@article{MCAS-2025,
+  title={Multi-scale contrastive learning via aggregated subgraph for link prediction},
+  author={Yabing Yao and Pingxia Guo and Zhiheng Mao and Ziyu Ti and Yangyang He and Fuzhong Nian and Ruisheng Zhang and Ning Ma},
+  journal={Applied Intelligence},
+  pages={1-20},
   year={2025},
   publisher={Springer},
-  doi={https://doi.org/xx.xxxx/xxxxxx},
-  url={https://link.springer.com/article/xx.xxxx/xxxxxx}
+  doi={https://doi.org/10.1007/s10489-025-06394-5},
+  url={https://link.springer.com/article/10.1007/s10489-025-06394-5}
 }

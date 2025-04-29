@@ -1,4 +1,4 @@
-# 项目名称（如：HLP-MSM）
+# 项目名称（MCAS）
 
 Yao Y, Guo P, Mao Z, et al. Multi-scale contrastive learning via aggregated subgraph for link prediction[J]. Applied Intelligence, 2025, 55(6): 1-20.
 

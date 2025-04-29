@@ -12,7 +12,6 @@ Link prediction seeks to uncover potential or future connections within a networ
 <p align="left">
   <img src="image/MCAS.png" alt="MSAC Framework" width="600"/>
 </p>
-
 *Figure: Overall framework of MCAS for link prediction.*
 ## 🔗 Code
 
@@ -27,9 +26,9 @@ If you find **MCAS** useful in your research, please consider citing the followi
   title={Multi-scale contrastive learning via aggregated subgraph for link prediction},
   author={Yabing Yao and Pingxia Guo and Zhiheng Mao and Ziyu Ti and Yangyang He and Fuzhong Nian and Ruisheng Zhang and Ning Ma},
   journal={Applied Intelligence},
-  pages={1-20},
+  pages={1--20},
   year={2025},
   publisher={Springer},
-  doi={[https://doi.org/10.1007/s10489-025-06394-5]},
-  url={[https://link.springer.com/article/10.1007/s10489-025-06394-5]}
+  doi={https://doi.org/10.1007/s10489-025-06394-5},
+  url={https://link.springer.com/article/10.1007/s10489-025-06394-5#citeas}
 }

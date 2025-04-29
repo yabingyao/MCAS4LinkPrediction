@@ -22,7 +22,7 @@ Click here to visit the code repository 👉[https://github.com/yabingyao/MCAS4L
 ## 📝 Citing
 
 If you find **MCAS** useful in your research, please consider citing the following paper:
-
+(https://doi.org/10.1007/s10489-025-06394-5)
 ```bibtex
 @article{MCAS-2025,
   title={Multi-scale contrastive learning via aggregated subgraph for link prediction},
@@ -31,6 +31,6 @@ If you find **MCAS** useful in your research, please consider citing the followi
   pages={1--20},
   year={2025},
   publisher={Springer},
-  [DOI: 10.1007/s10489-025-06394-5](https://doi.org/10.1007/s10489-025-06394-5)  
-  [View on Springer](https://link.springer.com/article/10.1007/s10489-025-06394-5#citeas){https://doi.org/10.1007/s10489-025-06394-5},
+  doi=[DOI: 10.1007/s10489-025-06394-5](https://doi.org/10.1007/s10489-025-06394-5)  
+  url=[View on Springer](https://link.springer.com/article/10.1007/s10489-025-06394-5#citeas)(https://link.springer.com/article/10.1007/s10489-025-06394-5#citeas),
 }

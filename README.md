@@ -9,11 +9,11 @@ Link prediction seeks to uncover potential or future connections within a networ
 
 ## 🖼️ Method Overview
 
-<p align="center">
+<p align="left">
   <img src="MCAS.jpg" alt="MSAC Framework" width="600"/>
 </p>
 
-*Figure: Overall framework of HLP-MSM for high-order link prediction.*
+*Figure: Overall framework of MCAS for link prediction.*
 ## 🔗 Code
 
 Click here to visit the code repository 👉[https://github.com/yabingyao/MCAS4LinkPrediction]

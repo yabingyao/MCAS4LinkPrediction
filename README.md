@@ -9,7 +9,7 @@ Link prediction seeks to uncover potential or future connections within a networ
 
 ## 🔗 Code
 
-点击访问代码仓库 👉 [GitHub - HLP-MSM](https://github.com/YourRepo/HLP-MSM)
+点击访问代码仓库 👉[https://github.com/yabingyao/MCAS4LinkPrediction]
 
 ## 📝 Citing
 

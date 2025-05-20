@@ -10,7 +10,7 @@ Link prediction seeks to uncover potential or future connections within a networ
 ## 🖼️ Method Overview
 
 <p align="left">
-  <img src="image/MCAS.png" alt="MSAC Framework" width="600"/>
+  <img src="image/MCAS.png" alt="MSAC Framework" width="900"/>
 </p>
 
 *Figure: Overall framework of MCAS for link prediction.*

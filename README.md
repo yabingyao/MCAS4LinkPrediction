@@ -1,4 +1,4 @@
-# 项目名称（MCAS）
+# MCAS
 
 Yao Y, Guo P, Mao Z, et al. [Multi-scale contrastive learning via aggregated subgraph for link prediction](https://link.springer.com/article/10.1007/s10489-025-06394-5#citeas)[J]. Applied Intelligence, 2025, 55(6): 1-20.
 

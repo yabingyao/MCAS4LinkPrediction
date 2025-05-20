@@ -23,7 +23,7 @@ Click here to visit the code repository 👉[https://github.com/yabingyao/MCAS4L
 
 If you find **MCAS** useful in your research, please consider citing the following paper:
 ```bibtex
-@article{MCAS-2025,
+@article{MCAS2025Yao,
   title={Multi-scale contrastive learning via aggregated subgraph for link prediction},
   author={Yabing Yao and Pingxia Guo and Zhiheng Mao and Ziyu Ti and Yangyang He and Fuzhong Nian and Ruisheng Zhang and Ning Ma},
   journal={Applied Intelligence},
